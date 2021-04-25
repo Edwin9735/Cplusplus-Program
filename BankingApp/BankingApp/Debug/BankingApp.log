@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\edwin\source\repos\BankingApp\BankingApp\Source.cpp(11,6): warning C4101: 'numYears': unreferenced local variable
+C:\Users\edwin\source\repos\BankingApp\BankingApp\Source.cpp(10,9): warning C4101: 'annualInterest': unreferenced local variable
+C:\Users\edwin\source\repos\BankingApp\BankingApp\Source.cpp(9,9): warning C4101: 'monthlyDeposit': unreferenced local variable
+C:\Users\edwin\source\repos\BankingApp\BankingApp\Source.cpp(12,7): warning C4101: 'continueInput': unreferenced local variable
+  BankingApp.vcxproj -> C:\Users\edwin\source\repos\BankingApp\Debug\BankingApp.exe
